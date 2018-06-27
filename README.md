@@ -1,1 +1,1 @@
-# r-ladies-githib-testing
+# r-ladies-github-testing
